@@ -2,7 +2,7 @@
 --
 Just select the .txt file containing your proxies or proxy list.
 --
-And run this command on cmd for required libraries | pip install requests colorama
+RUN THIS COMMAND ON CMD FOR REQUIRED LIBRARIES | pip install requests colorama
 --
 Here you can download python | https://www.python.org/downloads/ (check the "add python to path button")
 --
